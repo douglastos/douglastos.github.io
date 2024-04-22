@@ -65,6 +65,7 @@ $ iftop # monitora com grafico trafico de rede
 $ ansible-playbook playbook.yml --vault-password-file ~/.vault_pass.txt -b #executar playbook ansible
 $ ssh-copy-id -i deploy@10.90.1.11 #logar sem senha
 $ openssl s_client -showcerts -host host-semhttp -port 443 </dev/null #verificar cadea de certificados 
+$ sudo update-alternatives --config editor #configurar vim padrao do sistema ubuntu
 ```
 
 
