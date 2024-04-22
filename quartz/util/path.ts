@@ -30,7 +30,7 @@ export function isFullSlug(s: string): s is FullSlug {
 export type SimpleSlug = SlugLike<"simple">
 export function isSimpleSlug(s: string): s is SimpleSlug {
   const validStart = !(s.startsWith(".") || (s.length > 1 && s.startsWith("/")))
-  const validEnding = !endsWith(s, "index")
+  const validEnding = !endsWith(s, "Wellcome")
   return validStart && !containsForbiddenCharacters(s) && validEnding && !_hasFileExtension(s)
 }
 
@@ -237,7 +237,7 @@ export function transformLink(src: FullSlug, target: string, opts: TransformOpti
 function isFolderPath(fplike: string): boolean {
   return (
     fplike.endsWith("/") ||
-    endsWith(fplike, "index") ||
+    endsWith(fplike, "Wellcome") ||
     endsWith(fplike, "index.md") ||
     endsWith(fplike, "index.html")
   )
