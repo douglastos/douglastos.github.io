@@ -1,8 +1,5 @@
 ---
-tags:
-  - linux
-  - "#docker"
-  - git
+tags: []
 title: Bem Vindo
 date: 2024-04-22
 ---
