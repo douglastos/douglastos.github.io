@@ -2,18 +2,27 @@
 tags:
   - linux
   - "#docker"
-title: bem vindo
+  - git
+title: Bem Vindo
 date: 2024-04-22
 ---
 ___
 
-![[img/blur.jpg]]
+### Seja bem vindo ao meu blog pessoal!
+
+![[index.jpg]]
 
 
-Este é projeto para que eu posso guardar e compartilhar um pouco dos problemas,  que passo no meu dia a dia.
+Não sou muito bom com textos e apresentações, este projeto é para que eu possa guardar e compartilhar um pouco dos problemas que passo no meu dia a dia.
 
-Esse projeto espero estar sempre em constante evolução, tambem vou migrar algumas coisas do meu antigo blog para ca, https://douglastos.wordpress.com/
+Espero estar sempre em constante evolução, também vou migrar algumas coisas do meu antigo blog para ca, https://douglastos.wordpress.com/
 
-e é isso ai!
+e é isso aí!
 
-##### let's go start!
+###### let's go start!
+
+<script src="https://giscus.app/client.js" data-repo="douglastos/douglastos.github.io" data-repo-id="R_kgDOLvf9iw"
+data-category="General" data-category-id="DIC_kwDOLixoLc4CeGqc" data-mapping="title"data-strict="1"data-reactions-enabled="1"data-emit-metadata="0"data-input-position="bottom"data-theme="dark"data-lang="pt"crossorigin="anonymous"async>
+</script>
+
+

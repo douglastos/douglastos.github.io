@@ -40,7 +40,7 @@ export default {
     },
     recentNotes: {
       title: "Recent Notes",
-      seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
+      seeRemainingMore: ({ remaining }) => `See more ${remaining} →`,
     },
     transcludes: {
       transcludeOf: ({ targetSlug }) => `Transclude of ${targetSlug}`,

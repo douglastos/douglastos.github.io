@@ -10,6 +10,8 @@ date: 2024-04-22
 ___
 ## comando basicos
 
+Segue comandos que peguei ao longo da jornada com Linux.
+
 ```bash
 $ ip -br -c a #verificar IP com mais precisao
 $ cat /etc/*-release
@@ -68,6 +70,8 @@ $ openssl s_client -showcerts -host host-semhttp -port 443 </dev/null #verificar
 $ sudo update-alternatives --config editor #configurar vim padrao do sistema ubuntu
 ```
 
+[[index| ]]
 
-
-[[index]]
+<script src="https://giscus.app/client.js" data-repo="douglastos/douglastos.github.io" data-repo-id="R_kgDOLvf9iw"
+data-category="General" data-category-id="DIC_kwDOLixoLc4CeGqc" data-mapping="title"data-strict="1"data-reactions-enabled="1"data-emit-metadata="0"data-input-position="bottom"data-theme="dark"data-lang="pt"crossorigin="anonymous"async>
+</script>
