@@ -35,7 +35,7 @@ $ docker run -it --name az-cli mcr.microsoft.com/azure-cli sh #subir container a
 docker ps | grep 'Up 1 week' | awk '{print $1}'
 docker ps | grep 'Up 3 hours' | awk '{print $1}' | | xargs --no-run-if-empty docker stop
 docker system prune --all -f
-docker ps -a --size --format "table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Size}}"
+docker container ls -a --size --format "table {{.ID}}\t{{.Names}}\t{{.Image}}\t{{.Size}}"
 ```
 
 ## comandos basiado curso youtube
