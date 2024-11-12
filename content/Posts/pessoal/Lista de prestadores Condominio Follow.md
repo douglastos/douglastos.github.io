@@ -42,7 +42,7 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 | Cabeleireiro infantil Parada Kids | (11)959112323|
 | Carreto/ mudanças Bola JS - 11996776360 Domingos | (11)949547784 Marco - (11)946738452|
 | Chaveiro e Carimbos Nunes (William) | (11)997919128|
-- Churrasqueiro Luizinho - 11982871849
+| Churrasqueiro Luizinho | 11982871849 |
 
 - Conserto de máquina de lavar/ lava e seca/ microondas Otávio - 11994377782 Consertos - 11963994278
 
