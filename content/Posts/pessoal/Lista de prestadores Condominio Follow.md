@@ -29,22 +29,15 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 
 ###### Assistência técnica
 
-- Máquina de lavar, secadores, lava e seca, geladeiras 11947682506/ 11988114328
-    
-- Otávio Santos - 11994377782
-    
-- Trajano 11952208516
-    
-- Aulas particulares / reforço escolar / Cursinho Marco Aurélio Greco - 11-99729-3223
-    
-- Auto Elétrico Roth Car (Robson) - 11945704180
-    
-- Balões Lushe - 11971034152
-    
-
--Bateria de carros Amigão das baterias - 1123241801 - 11972445434
-
-- Brindes personalizados [https://www.instagram.com/thaispanf_/](https://www.instagram.com/thaispanf_/)
+| Nome/Prestador | Telefone/Contato/Links |
+| Máquina de lavar, secadores, lava e seca, geladeiras | (11)947682506/ (11)988114328 |
+| Otávio Santos | (11)994377782 |
+| Trajano | (11)952208516 |
+| Aulas particulares / reforço escolar / Cursinho Marco Aurélio Greco | (11)-99729-3223 |
+| Auto Elétrico Roth Car (Robson) | (11)945704180 |
+| Balões Lushe | (11)971034152 |
+| Bateria de carros Amigão das baterias | (11)23241801 - (11)972445434 |
+| Brindes personalizados | [https://www.instagram.com/thaispanf_/](https://www.instagram.com/thaispanf_/) |
     
 - Cabeleireira Barbara - 11945842968 Sandra - 11963783273
     
