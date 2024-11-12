@@ -16,18 +16,18 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 
 ###### EXTERNOS
 
-| Nome/Prestador | Telefone/Contato |
-| Açougue/churrasqueiro Marco Aurélio Rosa | (11)972930174 / (11)44011383 
-| Acupuntura/ Fisioterapia Marcos Roberto | (11)982997428 |
-| Adesivos de parede LG Film | (11)941718010 |
-| Aquecedor/ manutenção/ conversão Assistengás | (11)977174348 Isabel - (11)982090958 Sudeste - (11)984981188 |
-| Aluguel equipamento para limpeza de sofá Limpai | (11)978328902 |
-| Aluguel Kit Provençal/ Decoração Lisarbis Simone - 11995620408 XD Decorações - 1140441497 Si Brasil - 11984103541/ 11983820677
-    
-- Antena Coletiva (instalação) CAS - 1145765881/ 11998300308
+| Nome/Prestador                                   |                                  Telefone/Contato                                   |
+|:------------------------------------------------ |:-----------------------------------------------------------------------------------:|
+| Açougue/churrasqueiro Marco Aurélio Rosa         |                            (11)972930174 / (11)44011383                             |
+| Acupuntura/ Fisioterapia Marcos Roberto          |                                    (11)982997428                                    |
+| Adesivos de parede LG Film                       |                                    (11)941718010                                    |
+| Aquecedor/ manutenção/ conversão Assistengás     |            (11)977174348 Isabel - (11)982090958 Sudeste - (11)984981188             |
+| Aluguel equipamento para limpeza de sofá Limpai  |                                    (11)978328902                                    |
+| Aluguel Kit Provençal/ Decoração Lisarbis Simone | (11)995620408 XD Decorações - (11)40441497 Si Brasil - (11)984103541/ (11)983820677 |
+| Antena Coletiva (instalação) CAS                 |                             (11)45765881/ (11)998300308                             |
     
 
--Assistência técnica
+###### Assistência técnica
 
 - Máquina de lavar, secadores, lava e seca, geladeiras 11947682506/ 11988114328
     
