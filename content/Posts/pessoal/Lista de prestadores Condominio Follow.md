@@ -40,11 +40,11 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 | Brindes personalizados | [https://www.instagram.com/thaispanf_/](https://www.instagram.com/thaispanf_/) |
 | Cabeleireira Barbara | (11)945842968 Sandra - (11)963783273 |
 | Cabeleireiro infantil Parada Kids | (11)959112323|
-| Carreto/ mudanças Bola JS - 11996776360 Domingos | (11)949547784 Marco - (11)946738452|
+| Carreto/ mudanças Bola JS | 11996776360 Domingos / (11)949547784 Marco / (11)946738452|
 | Chaveiro e Carimbos Nunes (William) | (11)997919128|
-| Churrasqueiro Luizinho - 11982871849
-| Conserto de máquina de lavar/ lava e seca/ microondas Otávio - 11994377782 Consertos - 11963994278
-| Conserto de Tv e outros eletrodomésticos Vasil - 11996367324
+| Churrasqueiro Luizinho | 11982871849 |
+| Conserto de máquina de lavar/ lava e seca/ microondas Otávio | 11994377782 Consertos / 11963994278
+| Conserto de Tv e outros eletrodomésticos Vasil | 11996367324 |
 | Conserto de Notebooks Inácio - 11975484752 VIR ABC - 11969783272
 | Cópias/ impressões/ xerox Xerox - 11980605344
 | Comunicações (Cartões de visita, casamentos, adesivos, banner) Rigolo - 11986684580 (Cartão digital) Arte Design JJ (João) - 11990128534 Marina Belotto - 11991216506
