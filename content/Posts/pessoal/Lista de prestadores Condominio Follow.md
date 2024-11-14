@@ -8,6 +8,7 @@ tags:
   - condominio
 ---
 ___________________
+[[index| ]] 
 # Lista de prestadores Condominio Follow
 
 ⚠️ LISTA EM CONSTRUÇÃO ⚠️
@@ -19,8 +20,8 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 #### EXTERNOS
 
 ###### Açougue/churrasqueiro
-| nome           | telefone                            |
-| -------------- | :---------------------------------- |
+| nome               | telefone                                                          |
+| ------------------ | :---------------------------------------------------------------- |
 | Marco Aurélio Rosa | [\+11972930174](tel:+11972930174)/[\+1144011383](tel:+1144011383) |
 
 ###### Acupuntura/ Fisioterapia
@@ -54,6 +55,15 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 | Si Brasil | [\+11984103541](tel:+11984103541) / [\+11983820677](tel:+11983820677) |
 
 ###### Antena Coletiva (instalação)
-| nome   | telefone                          |
-| :----- | --------------------------------- |
-| CAS | [\+11978328902](tel:+11978328902) |
+| nome | telefone    |
+| :--- | ----------- |
+| CAS  | [\+1145765881](tel:+1145765881) / [\+11998300308](tel:+11998300308) |
+
+
+
+<!--
+###### 
+| nome | telefone    |
+| :--- | ----------- |
+|   | [\+](tel:+) / [\+](tel:+) 
+-->
