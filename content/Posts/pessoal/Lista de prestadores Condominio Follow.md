@@ -22,7 +22,7 @@ tel:+
 
 - [Açougue/churrasqueiro](#Açougue/churrasqueiro)
 - [Acupuntura/ Fisioterapia](#Acupuntura/Fisioterapia)
-- [Adesivos De Parede](#Adesivos-De-Parede)
+- [[Serviços#Adesivos de Parede]]
 
 ###### Açougue/churrasqueiro
 
@@ -35,7 +35,7 @@ tel:+
 | -------------- | :---------------------------------- |
 | Marcos Roberto | [\+(11)982997428](tel:+11982997428) |
 
-###### Adesivos De Parede
+###### Adesivos de Parede
 
 | nome    | telefone                            |
 | :------ | ----------------------------------- |
