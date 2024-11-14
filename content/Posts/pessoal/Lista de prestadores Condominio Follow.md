@@ -21,15 +21,24 @@ Vou atualizando conforme for surgindo! Quem quiser expor seu trabalho/serviço n
 | Marcos Roberto | 11 982997428 |
 |:--------------:| ------------ |
 ###### Acupuntura/ Fisioterapia
-| Marcos Roberto | 11 982997428 |
-| -------------- |:------------ |
+| nome           | telefone                       |
+| -------------- | :----------------------------- |
+| Marcos Roberto | [\+(11)982997428](11982997428) |
 ###### Adesivos de parede
-| LG Film | 11941718010 |
-|:------- | ----------- |
-###### 
+| nome    | telefone                     |
+| :------ | ---------------------------- |
+| LG Film | [\+11941718010](11941718010) |
+######  Aquecedor/ manutenção/ conversão
+| nome        | telefone      |
+| :---------- | ------------- |
+| Assistengás | (11)977174348 |
+| Isabel      | (11)982090958 |
+| Sudeste     | (11)984981188 |
 
+######  Aluguel equipamento para limpeza de sofá
 
-
-
+| nome   | telefone      |
+|:------ | ------------- |
+| Limpai | (11)978328902 |
 
 
