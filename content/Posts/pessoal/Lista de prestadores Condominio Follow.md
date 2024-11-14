@@ -22,7 +22,7 @@ tel:+
 
 - [Açougue/churrasqueiro](#Açougue/churrasqueiro)
 - [Acupuntura/ Fisioterapia](#Acupuntura/Fisioterapia)
-- [Adesivos de parede](#Adesivos-de-parede)
+- [Adesivos De Parede](#Adesivos-De-Parede)
 
 ###### Açougue/churrasqueiro
 
@@ -35,11 +35,14 @@ tel:+
 | -------------- | :---------------------------------- |
 | Marcos Roberto | [\+(11)982997428](tel:+11982997428) |
 
-###### Adesivos de parede
+###### Adesivos De Parede
+
 | nome    | telefone                            |
 | :------ | ----------------------------------- |
 | LG Film | [\+11941718010](tel:+(11)941718010) |
+
 ######  Aquecedor/ manutenção/ conversão
+
 | nome        | telefone                           |
 | :---------- | ---------------------------------- |
 | Assistengás | [\+11977174348](tel:+11977174348)  |
