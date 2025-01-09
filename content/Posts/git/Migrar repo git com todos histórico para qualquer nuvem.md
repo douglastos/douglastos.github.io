@@ -3,9 +3,9 @@ title: Migrar repo git com todos histórico para qualquer nuvem
 date: 2024-04-23
 tags:
   - git
-  - bsah
   - comandos
   - linux
+  - bash
 ---
 ---
 
