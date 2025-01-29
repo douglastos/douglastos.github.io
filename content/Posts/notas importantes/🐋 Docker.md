@@ -10,9 +10,7 @@ date: 2024-04-22
 
 ----
 
-[[🐧Linux]][[index| ]] 
-
-#   🐋 Docker
+[[🐧Linux| ]][[index| ]] 
 ## comandos iniciais
 
 ```bash

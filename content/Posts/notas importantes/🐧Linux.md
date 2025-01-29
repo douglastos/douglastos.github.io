@@ -10,7 +10,6 @@ date: 2024-04-22
 ___
 
 [[index| ]]
-#  🐧Linux
 ## comando basicos
 
 Segue comandos que peguei ao longo da jornada com Linux.

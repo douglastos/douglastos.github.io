@@ -1,13 +1,13 @@
 ---
-title: 📌 Configurar cadeia SSL
+title: 📌  Configuração da Cadeia de Certificados SSL no Apache
 date: 2025-01-29
 tags:
   - linux
   - bash
+  - ssl
+  - apache
 ---
-[[🐧Linux]][[index| ]] 
-# 📌 Configuração da Cadeia de Certificados SSL no Apache
-
+[[🐧Linux| ]][[index| ]] 
 ## 📜 Estrutura dos Certificados
 
 Para configurar corretamente a cadeia de certificados no Apache, precisamos identificar:
@@ -125,6 +125,7 @@ Se tudo estiver correto, o **Azure Application Gateway** também aceitará a con
 ---
 
 🚀 **Agora sua configuração SSL está pronta e documentada!**
+
 
 
 <script src="https://giscus.app/client.js" data-repo="douglastos/douglastos.github.io" data-repo-id="R_kgDOLvf9iw"
