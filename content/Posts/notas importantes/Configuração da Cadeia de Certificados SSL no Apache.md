@@ -1,5 +1,5 @@
 ---
-title: Configurar cadeia SSL
+title: Configurar cadeia SSL 📌
 date: 2025-01-29
 tags:
   - linux
