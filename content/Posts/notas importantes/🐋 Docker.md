@@ -4,7 +4,7 @@ tags:
   - linux
   - cli
   - comandos
-title: Docker 🐋
+title: 🐋 Docker
 date: 2024-04-22
 ---
 
