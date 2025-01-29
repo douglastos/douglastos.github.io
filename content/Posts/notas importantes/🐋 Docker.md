@@ -4,12 +4,12 @@ tags:
   - linux
   - cli
   - comandos
-title: docker 🐋
+title: Docker 🐋
 date: 2024-04-22
 ---
 
 ----
-
+#   🐋 Docker
 ## comandos iniciais
 
 ```bash
@@ -256,4 +256,4 @@ $  docker service update --replicas 10 pingtest
 referencia:
 curso caio delgado https://www.youtube.com/watch?v=U-GGoWq26C4&list=PL4ESbIHXST_TJ4TvoXezA0UssP1hYbP9_
 
-[[Linux]][[index| ]] 
+[[🐧Linux]][[index| ]] 

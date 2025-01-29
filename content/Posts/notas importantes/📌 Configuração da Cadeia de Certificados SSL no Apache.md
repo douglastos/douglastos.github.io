@@ -1,11 +1,11 @@
 ---
-title: Configurar cadeia SSL 📌
+title: 📌 Configurar cadeia SSL
 date: 2025-01-29
 tags:
   - linux
   - bash
 ---
-[[Linux]][[index| ]] 
+[[🐧Linux]][[index| ]] 
 # 📌 Configuração da Cadeia de Certificados SSL no Apache
 
 ## 📜 Estrutura dos Certificados

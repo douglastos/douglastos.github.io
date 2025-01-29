@@ -4,10 +4,11 @@ tags:
   - comandos
   - bash
   - cli
-title: Linux🐧
+title: 🐧 Linux
 date: 2024-04-22
 ---
 ___
+# 🐧Linux
 ## comando basicos
 
 Segue comandos que peguei ao longo da jornada com Linux.
