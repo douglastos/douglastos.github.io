@@ -8,7 +8,7 @@ tags:
 
 ### Hi there, I am Douglas Ribeiro👋
 
-Welcome to my GitHub profile!
+Welcome to my blog profile!
 
 ## About me:
 
