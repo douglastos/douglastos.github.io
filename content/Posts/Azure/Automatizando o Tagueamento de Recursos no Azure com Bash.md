@@ -8,6 +8,14 @@ tags:
   - shellscript
 ---
 ----
+
+  <tr>
+
+    <td><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Flinux_logo_icon_171222.png&f=1&nofb=1&ipt=7b969f2234f747e1db21294a093082793cd402f722f9a867d58226223e3cfc1c" width="800" /></td>
+
+  </tr>
+
+
 # Automatizando o Tagueamento de Recursos no Azure com Bash
 
 Você já precisou aplicar **tags em massa** nos recursos da sua assinatura Azure? E se fosse possível fazer isso com um simples script Bash? Foi exatamente isso que construí com o [Azure Resource Tagger](https://github.com/douglastos/azure-resource-tagger), uma solução simples, direta e eficiente para quem trabalha com ambientes cloud e precisa manter a governança em dia.
