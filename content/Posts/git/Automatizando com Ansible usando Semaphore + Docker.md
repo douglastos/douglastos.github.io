@@ -1,5 +1,5 @@
 
-![[semaphore.png]]
+![[Pasted image 20250605152752.png]]
 
 
 Nos últimos dias, andei explorando o [Semaphore](https://ansible-semaphore.com/), uma interface web open-source para orquestrar *playbooks* Ansible. A ideia era criar uma POC (Prova de Conceito) simples, mas funcional, para testar sua integração com Docker e Ansible de forma local. O resultado está publicado no meu [repositório no GitHub](https://github.com/douglastos/Semaphore).
