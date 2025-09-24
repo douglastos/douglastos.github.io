@@ -1,3 +1,5 @@
+![Diagrama de LVM - root e home](https://muylinux.xyz/wp-content/uploads/2024/03/1710289508_Guia-para-principiantes-de-LVM-en-Linux-780x450.png)`
+
 e você tem uma máquina com **LVM** configurado, por exemplo:
 
 - `/` → 10 GB
@@ -95,6 +97,8 @@ mount /dev/myvg/home /mnt/home
     
 
 ---
+
+
 
 
 
