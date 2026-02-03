@@ -7,7 +7,7 @@ ___
 
 ### Seja bem vindo ao meu blog pessoal!
 
-![[index.jpg]]
+![](https://douglastos.wordpress.com/wp-content/uploads/2020/07/set-list-environment-variables-linux-featured.jpg)
 
 
 Não sou muito bom com textos e apresentações, este projeto é para que eu possa guardar e compartilhar um pouco dos problemas que passo no meu dia a dia.

@@ -7,8 +7,8 @@ tags:
   - cmd
   - wiifi
 ---
+![](https://douglastos.wordpress.com/wp-content/uploads/2025/06/1749305084624.jpg?w=1024&h=768&crop=1)
 
-![[1749305084624.jpg]]
 
 
 Descubra a Senha do Wi-Fi pelo CMD (Windows)  
