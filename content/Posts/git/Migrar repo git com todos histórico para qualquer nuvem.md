@@ -9,9 +9,10 @@ tags:
 ---
 ---
 
-![[cover3.webp]]
+![](https://douglastos.wordpress.com/wp-content/uploads/2024/02/cover3.jpg)
 
-Hoje me deparei com um projeto para migrar todos os fontes que estao on premises em gitlab para azuredevops, e por acaso isso apareceu um grupo do telegram que me ajudou bastante resolvi deixar aki o registro para posteridade! vamos la!….
+
+Hoje me deparei com um projeto para migrar todos os fontes que estão on premises em gitlab para azuredevops, e por acaso isso apareceu um grupo do telegram que me ajudou bastante resolvi deixar aqui o registro para posteridade! vamos la!….
 
 esse how to por incrível que parece é muito simples segue os comando abaixo:  
   
