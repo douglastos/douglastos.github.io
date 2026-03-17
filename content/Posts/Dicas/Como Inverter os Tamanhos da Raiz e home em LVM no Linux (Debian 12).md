@@ -53,7 +53,7 @@ isso voce separa por diretório como  exemplo:
  - /tmp
  - /
 
-3. ** caso queira colocar somente no `/`:**
+3. **caso queira colocar somente no `/`:**
 ```bash
 lvextend -l +100%FREE /dev/debian12-vg/root
 resize2fs /dev/debian12-vg/root
