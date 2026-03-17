@@ -33,30 +33,37 @@ lvreduce -L 10G /dev/debian12-vg/home
 mount /home
 ```
 
-2. **Aumentar `/`:**
-```bash
-lvextend -l +100%FREE /dev/debian12-vg/root
-resize2fs /dev/debian12-vg/root
-```
 
-3. **Verificar tamanhos:**
-```bash
-df -h
-lvs
-```
-
-Caso queira ao invés de colocar o tamanho vazio para o / e colocar no /var (por exemplo):
+2. **Aumentar por diretórios:**
 
 ```bash
-lvextend -L +10G /dev/debian12-vg/var  # pode colcoar tudo tambem questao do que preisa
+lvextend -L +10G /dev/debian12-vg/var
 resize2fs /dev/debian12-vg/var
+
+lvextend -L +5G /dev/debian12-vg/tmp
+resize2fs /dev/debian12-vg/tmp
+
+# Só no final, se quiser dar o restante pra /
 lvextend -l +100%FREE /dev/debian12-vg/root
 resize2fs /dev/debian12-vg/root
+```
 
+isso voce separa por diretório como  exemplo:
+ - /var
+ - /tmp
+ - /
+
+3. ** caso queira colocar somente no `/`:**
+```bash
+lvextend -l +100%FREE /dev/debian12-vg/root
+resize2fs /dev/debian12-vg/root
+```
+
+4. **Verificar tamanhos:**
+```bash
 df -h
 lvs
 ```
-
 
 ## **Opção 2 – Mover diretórios do / para /home (Menos invasivo)**
 
