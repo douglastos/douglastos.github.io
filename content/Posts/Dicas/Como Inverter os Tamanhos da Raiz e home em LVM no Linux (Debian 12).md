@@ -45,6 +45,19 @@ df -h
 lvs
 ```
 
+Caso queira ao invés de colocar o tamanho vazio para o / e colocar no /var (por exemplo):
+
+```bash
+lvextend -L +10G /dev/debian12-vg/var  # pode colcoar tudo tambem questao do que preisa
+resize2fs /dev/debian12-vg/var
+lvextend -l +100%FREE /dev/debian12-vg/root
+resize2fs /dev/debian12-vg/root
+
+df -h
+lvs
+```
+
+
 ## **Opção 2 – Mover diretórios do / para /home (Menos invasivo)**
 
 Se você não quiser mexer em LVs, pode **mover pastas pesadas** do `/` para `/home` e criar **links simbólicos**:
